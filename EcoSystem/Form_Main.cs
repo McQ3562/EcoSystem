@@ -12,6 +12,8 @@ namespace EcoSystem
 {
     public partial class Form_Main : Form
     {
+        World worldRef;
+
         public Form_Main()
         {
             InitializeComponent();
@@ -19,8 +21,8 @@ namespace EcoSystem
 
         private void Form_Main_Load(object sender, EventArgs e)
         {
-            World worldRef = new World();
-
+            worldRef = new World();
+            worldRef.Load();
         }
     }
 }

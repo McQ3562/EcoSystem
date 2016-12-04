@@ -8,3 +8,12 @@ C:\Users\spaynter\Documents\Visual Studio 2013\Projects\EcoSystem\EcoSystem\obj\
 C:\Users\spaynter\Documents\Visual Studio 2013\Projects\EcoSystem\EcoSystem\obj\Debug\EcoSystem.csproj.GenerateResource.Cache
 C:\Users\spaynter\Documents\Visual Studio 2013\Projects\EcoSystem\EcoSystem\obj\Debug\EcoSystem.exe
 C:\Users\spaynter\Documents\Visual Studio 2013\Projects\EcoSystem\EcoSystem\obj\Debug\EcoSystem.pdb
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\bin\Debug\EcoSystem.exe.config
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.exe
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.pdb
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\bin\Debug\EcoSystem.exe
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\bin\Debug\EcoSystem.pdb
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.csprojResolveAssemblyReference.cache
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.Form_Main.resources
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.Properties.Resources.resources
+C:\Users\spaynter\Documents\GitHub\EcoSystem\EcoSystem\obj\Debug\EcoSystem.csproj.GenerateResource.Cache
